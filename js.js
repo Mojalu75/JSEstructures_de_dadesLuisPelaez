@@ -172,6 +172,7 @@ function ex11() {
         titulo: "Titanic",
         anyo: 1997,
         actores: ["Leonardo DiCaprio", "Kate Winslet"]
+
     };
 
     let cola = [];
